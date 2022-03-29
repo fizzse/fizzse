@@ -15,4 +15,4 @@ Action already setup In this template, you just need click `use this template` b
 [![](https://raw.githubusercontent.com/fizzse/fizzse/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/fizzse/fizzse/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[More Info](https://github.com/fizzse)
